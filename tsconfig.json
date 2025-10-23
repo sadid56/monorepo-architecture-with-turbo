@@ -1,0 +1,4 @@
+{
+  "files": [],
+  "references": [{ "path": "apps/web" }, { "path": "apps/dashboard" }, { "path": "packages/ui" }, { "path": "packages/utils" }]
+}
